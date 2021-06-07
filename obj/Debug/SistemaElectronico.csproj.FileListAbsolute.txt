@@ -1,0 +1,210 @@
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\csc.exe
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\System.Collections.Immutable.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\vbc.exe
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\VBCSCompiler.exe
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\roslyn\VBCSCompiler.exe.config
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.dll.config
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Antlr3.Runtime.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\EntityFramework.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\EntityFramework.SqlServer.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Google.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Web.Infrastructure.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Newtonsoft.Json.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Owin.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\System.Web.Optimization.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\System.Web.Providers.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\WebGrease.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\System.Web.Optimization.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Antlr3.Runtime.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Newtonsoft.Json.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\EntityFramework.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\EntityFramework.SqlServer.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\System.Web.Providers.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Google.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\ACESSODADOS.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\NEGOCIO.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\ACESSODADOS.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\bin\NEGOCIO.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.csprojResolveAssemblyReference.cache
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\csc.exe
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\vbc.exe
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\VBCSCompiler.exe
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.dll.config
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\ACESSODADOS.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Antlr3.Runtime.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\EntityFramework.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\EntityFramework.SqlServer.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\NEGOCIO.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Newtonsoft.Json.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Owin.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\System.Web.Optimization.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\System.Web.Providers.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\WebGrease.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\ACESSODADOS.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\NEGOCIO.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\System.Web.Optimization.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Antlr3.Runtime.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Newtonsoft.Json.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\EntityFramework.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\EntityFramework.SqlServer.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\System.Web.Providers.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.csprojResolveAssemblyReference.cache
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.pdb
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\csc.exe
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\vbc.exe
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.dll.config
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\SistemaElectronico.pdb
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\ACESSODADOS.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Antlr3.Runtime.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\EntityFramework.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\EntityFramework.SqlServer.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\NEGOCIO.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Newtonsoft.Json.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Owin.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\System.Web.Optimization.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\System.Web.Providers.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\WebGrease.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\ACESSODADOS.pdb
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\NEGOCIO.pdb
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\System.Web.Optimization.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Antlr3.Runtime.pdb
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Newtonsoft.Json.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\EntityFramework.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\EntityFramework.SqlServer.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\System.Web.Providers.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.dll
+C:\Users\Roberto\Documents\Bery\Kelson Most Wanted - Rony B Forever [Álbum 2020]\SistemaElectronico\SistemaElectronico\obj\Debug\SistemaElectronico.pdb
